@@ -1,0 +1,2 @@
+# pingerbell
+ping my server
